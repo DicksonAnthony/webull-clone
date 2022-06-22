@@ -8,6 +8,6 @@ export const GlobalStyle = createGlobalStyle`
     padding: 0;
   }
   html, body {
-    overflow-x: hidden;
+    overflow: hidden;
   }
 `;
